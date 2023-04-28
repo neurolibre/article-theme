@@ -1,6 +1,6 @@
 jtex: v1
 title: Article Theme
-description: Simple site for displaying multiple articles and notebooks with a table of contents.
+description: Simple site for displaying an article with associated notebooks.
 version: 1.0.0
 license: MIT
 source: https://github.com/executablebooks/myst-theme

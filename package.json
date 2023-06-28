@@ -1,6 +1,6 @@
 {
   "name": "@myst-theme/article",
-  "version": "",
+  "version": "0.3.3",
   "private": true,
   "sideEffects": false,
   "scripts": {
